@@ -76,7 +76,7 @@ Jupyter Notebook
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ml-course-workspace.git
+git clone https://github.com/mlclubuu/ml-course-workspace.git
 cd ml-course-workspace
 ```
 
@@ -169,8 +169,8 @@ Contributions are welcome! If you have improvements, bug fixes, or new content:
 ## 📞 Support & Questions
 
 - 💬 Open an Issue for questions or problems
-- 📧 Contact: [your-email@example.com]
-- 🐦 Connect on [Your Social Links]
+- 📧 Contact: [mlclub.uttarauniversity@gmail.com]
+- 🐦 Connect on [https://www.facebook.com/uumlc]
 
 ---
 
